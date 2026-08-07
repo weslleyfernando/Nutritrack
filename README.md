@@ -1,6 +1,5 @@
 # NutriTrack
 
-<<<<<<< HEAD
 O NutriTrack é uma aplicação desenvolvida para auxiliar usuários no acompanhamento da alimentação e no gerenciamento de informações nutricionais. O objetivo é oferecer uma forma prática de registrar refeições e acompanhar hábitos alimentares.
 
 # Funcionalidades
@@ -70,4 +69,4 @@ Durante o desenvolvimento deste projeto foram praticados:
 
 - Cadastro de metas nutricionais
 - Geração de gráficos de evolução
->>>>>>> 839a5ff7f7a62efa6310c6c263310b866dcdb68e
+- Notificações e lembretes- Exportação de relatórios
