@@ -69,4 +69,4 @@ Durante o desenvolvimento deste projeto foram praticados:
 
 - Cadastro de metas nutricionais
 - Geração de gráficos de evolução
-- Notificações e lembretes- Exportação de relatórios
+
