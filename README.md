@@ -20,40 +20,6 @@ O NutriTrack é uma aplicação desenvolvida para auxiliar usuários no acompanh
 - Git e GitHub
 
 
-# Demonstração
-
-screenshots/
-├── login.png
-├── dashboard.png
-└── refeicoes.png
-```
-
-## 🚀 Como executar o projeto
-
-1. Clone o repositório:
-
-```bash
-git clone https://github.com/seu-usuario/nutritrack.git
-```
-
-2. Entre na pasta do projeto:
-
-```bash
-cd nutritrack
-```
-
-3. Instale as dependências:
-
-```bash
-npm install
-```
-
-4. Execute a aplicação:
-
-```bash
-npm start
-```
-
 # Aprendizados
 
 Durante o desenvolvimento deste projeto foram praticados:
